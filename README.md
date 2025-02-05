@@ -55,17 +55,18 @@
 
 <h2 align="center">📌 Pinned Repositories</h2>
 
-### [Project 1](https://github.com/saikat0098/project1](https://github.com/Saikat0098/tea-house-project)
+
+### [Project 1](https://github.com/Saikat0098/influencer-gear)
 - **Description**: A short project overview.
 - **Live Project Link**: [Live Project](https://example.com)
 - **Technologies Used**: HTML, CSS, JavaScript
 
-### [Project 2](https://github.com/saikat0098/project2](https://github.com/Saikat0098/Assignment-5)
+### [Project 2](https://github.com/Saikat0098/tea-house-project)
 - **Description**: A short project overview.
 - **Live Project Link**: [Live Project](https://example.com)
 - **Technologies Used**: React, Node.js, MongoDB
 
-### [Project 3](https://github.com/saikat0098/project3](https://github.com/Saikat0098/influencer-gear)
+### [Project 3](https://github.com/Saikat0098/Assignment-5)
 - **Description**: A short project overview.
 - **Live Project Link**: [Live Project](https://example.com)
 - **Technologies Used**: Next.js, Tailwind CSS
