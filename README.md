@@ -1,75 +1,73 @@
-   
- <div align="center">
-  <img src="https://your-banner-image-url.com/banner.png" alt="Developer Banner" width="100%"/>
-  
-  # Hi there! I'm Atikur Rahman 👋
-  ### Full Stack Developer | MERN Specialist
-  
-  <img src="https://your-coding-animation.gif" alt="Coding" width="350" align="right"/>
-</div>
+[GitHub Banner](https://i.ibb.co.com/pjFFgtVT/github-b.jpg)
 
-### 🚀 About Me
-I'm a passionate Full Stack Developer from Bangladesh, specializing in creating responsive and user-centric web applications. With a strong foundation in frontend technologies and growing expertise in backend development, I strive to build solutions that make a difference.
+<h1 align="center">Hi 👋, I'm Atikur Rahman</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-🏠 Based in: Dhaka, Bangladesh  
-📧 Contact: saikatislam7960@gmail.com  
-📱 Phone: 01325210769
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-### 🔭 Current Endeavors
-- Expanding my backend expertise with Express.js and MongoDB
-- Building a comprehensive tourism platform
-- Exploring Next.js for enhanced frontend development
-- Contributing to open-source projects
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saikat0098&label=Profile%20views&color=0e75b6&style=flat" alt="saikat0098" /> </p>
 
-### 💻 Technical Skills
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-**Frontend Development**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+- 🌱 I’m currently learning **Express MongoDB**
+
+- 💬 Ask me about **🚀 Frontend Developer | Crafting sleek, responsive, and user-friendly web experiences. Let me know if you want a different style! 😊**
+
+- 📫 How to reach me **saikatislam7960@gmail.com**
+
+- ⚡ Fun fact **I think I am funny**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin" height="30" width="40" /></a>
+  <a href="https://github.com/saikat0098" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="saikat0098" height="30" width="40" /></a>
 </p>
 
-**Backend Development**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </p>
 
-**Tools & Technologies**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-</p>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/Saikat0098"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Saikat0098" /></a></p><br><br>
 
-### 🤝 Connect with Me
-<p>
-  <a href="https://linkedin.com/in/[your-linkedin]">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/saikat0098">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saikat0098&show_icons=true&locale=en&layout=compact" alt="saikat0098" /></p>
 
-### 📊 GitHub Statistics
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saikat0098&show_icons=true&locale=en" alt="saikat0098" /></p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saikat0098&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=saikat0098&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikat0098&theme=radical" alt="GitHub Streak" />
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saikat0098&" alt="saikat0098" /></p>
 
-### ☕ Support My Work
-<p>
-  <a href="https://www.buymeacoffee.com/Saikat0098">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Support me by buying a coffee" />
-  </a>
-</p>
+<h2 align="center">🚀 Current Activities</h2>
+<ul>
+  <li>Exploring Next.js</li>
+  <li>Working on a tourism website</li>
+</ul>
+
+<h2 align="center">📌 Pinned Repositories</h2>
+
+### [Project 1](https://github.com/saikat0098/project1)
+- **Description**: A short project overview.
+- **Live Project Link**: [Live Project](https://example.com)
+- **Technologies Used**: HTML, CSS, JavaScript
+
+### [Project 2](https://github.com/saikat0098/project2)
+- **Description**: A short project overview.
+- **Live Project Link**: [Live Project](https://example.com)
+- **Technologies Used**: React, Node.js, MongoDB
+
+### [Project 3](https://github.com/saikat0098/project3)
+- **Description**: A short project overview.
+- **Live Project Link**: [Live Project](https://example.com)
+- **Technologies Used**: Next.js, Tailwind CSS
+
+<h2 align="center">📄 Repository README Files</h2>
