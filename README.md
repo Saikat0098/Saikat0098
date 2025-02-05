@@ -58,7 +58,7 @@
 
 ### [Project 1](https://github.com/Saikat0098/influencer-gear)
 - **Description**: MERN stack project with authentication, CRUD operations, RESTful APIs, and responsive UI. 🚀
-- **Live Project Link**: [https://jolly-phoenix-7432d6.netlify.app/)
+- **Live Project Link**: [Live Project](https://jolly-phoenix-7432d6.netlify.app/)
 - **Technologies Used**:React, Express MongoDB Tailwind CSS HTML, CSS, JavaScript
 
 ### [Project 2](https://github.com/Saikat0098/tea-house-project)
