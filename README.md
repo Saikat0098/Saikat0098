@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co.com/pjFFgtVT/github-b.jpg" alt="GitHub Banner">
+ <img src="https://i.ibb.co.com/1Ytq6pf6/github-bannaer.png" alt="GitHub Banner">
 </p>
 
 
