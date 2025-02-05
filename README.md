@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Atikur Rahman</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Express MongoDB**
 
-- 💬 Ask me about **🚀 Frontend Developer | Crafting sleek, responsive, and user-friendly web experiences. Let me know if you want a different style! 😊**
+- 💬 Ask me about **🚀 MERN stack  Developer | Crafting sleek, responsive, and user-friendly web experiences. Let me know if you want a different style! 😊**
 
 - 📫 How to reach me **saikatislam7960@gmail.com**
 
