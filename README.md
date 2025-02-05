@@ -1,4 +1,8 @@
-[GitHub Banner](https://i.ibb.co.com/pjFFgtVT/github-b.jpg)
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://i.ibb.co.com/pjFFgtVT/github-b.jpg" alt="GitHub Banner">
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Atikur Rahman</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
