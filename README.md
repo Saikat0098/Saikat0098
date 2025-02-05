@@ -57,18 +57,16 @@
 
 
 ### [Project 1](https://github.com/Saikat0098/influencer-gear)
-- **Description**: A short project overview.
-- **Live Project Link**: [Live Project](https://example.com)
-- **Technologies Used**: HTML, CSS, JavaScript
+- **Description**: MERN stack project with authentication, CRUD operations, RESTful APIs, and responsive UI. 🚀
+- **Live Project Link**: [https://jolly-phoenix-7432d6.netlify.app/)
+- **Technologies Used**:React, Express MongoDB Tailwind CSS HTML, CSS, JavaScript
 
 ### [Project 2](https://github.com/Saikat0098/tea-house-project)
-- **Description**: A short project overview.
-- **Live Project Link**: [Live Project](https://example.com)
-- **Technologies Used**: React, Node.js, MongoDB
+- **Description**: MERN stack app with user authentication, CRUD, real-time data, and responsive UI.
+- **Live Project Link**: [Live Project](https://verdant-bonbon-417997.netlify.app/)
+- **Technologies Used**: React,JavaScript , Node.js, Express js , MongoDB
 
 ### [Project 3](https://github.com/Saikat0098/Assignment-5)
 - **Description**: A short project overview.
-- **Live Project Link**: [Live Project](https://example.com)
-- **Technologies Used**: Next.js, Tailwind CSS
-
-<h2 align="center">📄 Repository README Files</h2>
+- **Live Project Link**: [Live Project](https://vocal-cuchufli-88c3e4.netlify.app/)
+- **Technologies Used**: React, Express MongoDB Tailwind CSS
